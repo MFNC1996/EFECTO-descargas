@@ -7,8 +7,8 @@ suena: sin buscar archivos, sin abrir reproductores, sin internet.
 
 | | |
 |---|---|
-| **Mac** | [EFECTO-1.0.0-mac.dmg](https://github.com/MFNC1996/EFECTO-descargas/releases/download/v1.0.0/EFECTO-1.0.0-mac.dmg) · macOS 12 o superior |
-| **Windows** | [EFECTO-1.0.0-windows.zip](https://github.com/MFNC1996/EFECTO-descargas/releases/download/v1.0.0/EFECTO-1.0.0-windows.zip) · Windows 10 y 11 |
+| **Mac** | [EFECTO-1.0.1-mac.dmg](https://github.com/MFNC1996/EFECTO-descargas/releases/download/v1.0.1/EFECTO-1.0.1-mac.dmg) · macOS 12 o superior |
+| **Windows** | [EFECTO-1.0.1-windows.zip](https://github.com/MFNC1996/EFECTO-descargas/releases/download/v1.0.1/EFECTO-1.0.1-windows.zip) · Windows 10 y 11 |
 
 La primera vez el sistema desconfía, porque la aplicación no está firmada con
 los certificados de pago de Apple ni de Microsoft. Se abre igual:
